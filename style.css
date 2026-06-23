@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+h1, h2, h3, h4, h5, h6, a, p {
+  font-family: Lexend;
+  color: #FFFFFF;
+}
+hr {
+  background-color: #DDDDFF;
+  color: #DDDDFF;
+  height: 4px;
+}
+
+body {
+  background-color: #331155;
+  text-align: center;
+}
