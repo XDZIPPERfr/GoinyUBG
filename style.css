@@ -14,3 +14,18 @@ body {
   background-color: #331155;
   text-align: center;
 }
+
+iframe {
+  border-radius: 9px;
+  width: 80%;
+  height: 555px;
+  border-width: 5px;
+  border-color: #331155;
+}
+
+button {
+  border-radius: 8px;
+  background-color: #470589;
+  border-width: 4px;
+  border-color: #331155;
+}
